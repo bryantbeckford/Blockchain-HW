@@ -20,5 +20,5 @@ You’ll make the following updates to the provided Python file for this assignm
 
 ### Blockchain Validation 
 
-![alt=""](Images/application-image.png)
+![alt=""](Images/blockchain_validation.png)
 
